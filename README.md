@@ -4,6 +4,7 @@
 Sample program used to show students Gradle in action. Based on [Jón Ingi's Hello World Gradle app](https://github.com/joningis/hugb_hello_world).
 
 ## Project content
+[![Build Status](https://travis-ci.org/harpag/chuck_joke.png)](https://travis-ci.org/harpag/chuck_joke)
 - **build.gradle** (The gradle build file that we use)
 - **gradle** (Folder containing the gradle wrapper)
 - **gradlew** (Linux/Unix script to run the gradle wrapper)
